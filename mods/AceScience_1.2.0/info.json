@@ -1,0 +1,12 @@
+{	
+	"name": "AceScience",
+	"version": "1.2.0",
+	"author": "GalAster",
+	"title": "Ace 异星科研",
+	"title_original": "Ace Science Mod",
+	"homepage": "",
+	"contact": "",
+	"description": "虫巢掉落虫巢核心,虫子掉落虫核碎片.碎片可以合成核心,核心用于增殖科研瓶.",
+	"description_original": "Adds alien artifacts back to proliferate science packs.",
+	"factorio_version": "0.15"
+}
