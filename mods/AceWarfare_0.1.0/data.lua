@@ -8,4 +8,5 @@ require("prototypes.item.SeasideRail-entities")
 require("prototypes.recipe.warfare-vehicle")
 --各种科技
 require("prototypes.technology.vehicle")
-require("prototypes.technology.weapon")
+--require("prototypes.technology.weapon")
+

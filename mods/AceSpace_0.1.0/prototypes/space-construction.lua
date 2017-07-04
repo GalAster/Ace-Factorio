@@ -13,6 +13,7 @@ data:extend({
 	},
   {	type = "recipe",
 	name = "space-assembling-machine",
+	
 	enabled = false,
 	ingredients =
 	{
